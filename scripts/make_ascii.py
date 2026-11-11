@@ -7,7 +7,7 @@ OUT = ROOT / "data" / "ascii.json"
 
 ROWS = 80                 # total rows (portrait height)
 CROP = (260, 20, 1060, 820)   # (left, top, right, bottom) in px of toufeeq-bw.png
-GAMMA = 2.0                 # >1 darkens midtones -> more face detail
+GAMMA = 1.5               # >1 darkens midtones -> more face detail
 CHAR_ASPECT = 0.5         # monospace char is ~2x taller than wide
 
 def main():
