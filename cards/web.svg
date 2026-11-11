@@ -21,7 +21,7 @@
 <text class="mono arrow" x="290" y="40" font-size="16" fill="#111111">&#8599;</text>
 <text class="serif" x="26" y="118" font-size="52" letter-spacing="-1" fill="#111111" visibility="hidden">0 <tspan font-style="italic">web apps</tspan><set attributeName="visibility" to="visible" begin="1.15s" dur="0.12s"/></text><text class="serif" x="26" y="118" font-size="52" letter-spacing="-1" fill="#111111" visibility="hidden">1 <tspan font-style="italic">web apps</tspan><set attributeName="visibility" to="visible" begin="1.27s" dur="0.12s"/></text><text class="serif" x="26" y="118" font-size="52" letter-spacing="-1" fill="#111111" visibility="hidden">2 <tspan font-style="italic">web apps</tspan><set attributeName="visibility" to="visible" begin="1.39s" dur="0.12s"/></text><text class="serif" x="26" y="118" font-size="52" letter-spacing="-1" fill="#111111" visibility="hidden">3 <tspan font-style="italic">web apps</tspan><set attributeName="visibility" to="visible" begin="1.51s" dur="0.12s"/></text><text class="serif" x="26" y="118" font-size="52" letter-spacing="-1" fill="#111111" visibility="hidden">4 <tspan font-style="italic">web apps</tspan><set attributeName="visibility" to="visible" begin="1.63s" fill="freeze"/></text>
 <g class="serif" font-size="17" fill="#111111" fill-opacity=".85">
-<text x="26" y="160">Karwann, System X, a weather</text>
+<text x="26" y="160">Karwan, System X, a weather</text>
 <text x="26" y="182">app and a bubble game.</text>
 </g>
 </g>

@@ -112,14 +112,14 @@ def hero():
 # Edit this list to change the tiles. "count" is the animated number, "word" follows it.
 USER = "toufeeqahmed916"
 TILES = [
-    dict(file="ai.svg", label="AI", bg=C["accent"], fg=C["ink"], count=2, word="AI apps",
-         desc=("Haven and an AI image", "generator using Replicate."),
+    dict(file="ai.svg", label="AI", bg=C["accent"], fg=C["ink"], count=3, word="AI apps",
+         desc=("Haven, Karwan and an AI image", "generator."),
          href=f"https://github.com/{USER}/Haven"),
     dict(file="web.svg", label="WEB", bg=C["web"], fg=C["ink"], count=4, word="web apps",
-         desc=("Karwann, System X, a weather", "app and a bubble game."),
+         desc=("Karwan, System X, a weather", "app and a bubble game."),
          href=f"https://github.com/{USER}/Karwann"),
-    dict(file="projects.svg", label="PROJECTS", bg=C["designer"], fg="#FFFFFF", count=6, word="projects",
-         desc=("All public on GitHub,", "and more on the way."),
+    dict(file="projects.svg", label="PROJECTS", bg=C["designer"], fg="#FFFFFF", count=15, word="+ projects",
+         desc=("Some of them public on GitHub,", "and more on the way."),
          href=f"https://github.com/{USER}?tab=repositories"),
 ]
 
